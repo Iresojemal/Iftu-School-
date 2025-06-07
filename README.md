@@ -1,1 +1,1 @@
-# Iftu-School-index.htmk
+# Iftu-School-index.html
